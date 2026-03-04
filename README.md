@@ -1,6 +1,6 @@
 # 🦋 Hi, I'm Ilhem
 
-🎓 Computer Science for Business and Information Systems student 
+🎓 Computer Science for Business and Information Systems student
 Interested in **Data Analysis**, **Information Systems**, and **IT Project Management**
 
 I enjoy organizing data, understanding systems and building structured digital solutions.
