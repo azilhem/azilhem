@@ -43,7 +43,7 @@ I enjoy organizing data, understanding systems and building structured digital s
 
 ---
 
-### 🧩 Modeling & Project Management
+### 👩‍💻 Modeling & Project Management
 
 ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F36F21?style=for-the-badge&logo=lucidchart&logoColor=white)
@@ -62,7 +62,7 @@ I enjoy organizing data, understanding systems and building structured digital s
 
 ---
 
-### 💻 Development Environments
+### 🔨 Development Environments
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
