@@ -7,14 +7,6 @@ I enjoy organizing data, understanding systems and building structured digital s
 
 ---
 
-## Areas of Interest
-
-Data Analysis  
-Information Systems  
-IT Project Management  
-
----
-
 ## Technologies & Tools
 
 ### 💻 Programming Languages
