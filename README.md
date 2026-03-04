@@ -1,6 +1,6 @@
-# Hi, I'm Ilhem
+# 🦋 Hi, I'm Ilhem
 
-🎓 Computer Science student (MIAGE) – Université d'Évry Paris-Saclay  
+🎓 Computer Science for Business and Information Systems student 
 Interested in **Data Analysis**, **Information Systems**, and **IT Project Management**
 
 I enjoy organizing data, understanding systems and building structured digital solutions.
@@ -33,7 +33,13 @@ I enjoy organizing data, understanding systems and building structured digital s
 
 ---
 
-### Tools & Environment
+### 📄 Documentation
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+### ⚙️ Tools & Environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
