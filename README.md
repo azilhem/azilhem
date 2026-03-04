@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Ilhem
+# Hi, I'm Ilhem
 
 🎓 Computer Science student (MIAGE) – Université d'Évry Paris-Saclay  
-📊 Interested in **Data Analysis**, **Information Systems**, and **IT Project Management**
+Interested in **Data Analysis**, **Information Systems**, and **IT Project Management**
 
 I enjoy organizing data, understanding systems and building structured digital solutions.
 
 ---
 
-## 💡 Areas of Interest
+## Areas of Interest
 
-📊 Data Analysis  
-🧩 Information Systems  
-📋 IT Project Management  
+Data Analysis  
+Information Systems  
+IT Project Management  
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### 💻 Programming Languages
 
@@ -41,7 +41,7 @@ I enjoy organizing data, understanding systems and building structured digital s
 
 ---
 
-### ⚙️ Tools & Environment
+### Tools & Environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -51,35 +51,9 @@ I enjoy organizing data, understanding systems and building structured digital s
 
 ---
 
-## 📂 Academic Projects
+## Contact
 
-🎟️ **Ticket Reservation System (Java)**  
-Application developed in a team to manage show reservations.
-
-📊 **University Data Analysis Project**  
-- Data cleaning  
-- Database structuring  
-- KPI creation  
-
-🛵 **Scooter Rental Data Analysis**  
-- Usage analysis  
-- Service indicators  
-- Database design
-
----
-
-## 📈 GitHub Stats
-
-![Ilhem GitHub stats](https://github-readme-stats.vercel.app/api?username=azilhem&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azilhem&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-📧 azzouzilhem.pro@gmail.com  
-💼 LinkedIn : Ilhem Azzouz  
+📧 azzouzilhem.pro@gmail.com   
 
 ---
 
