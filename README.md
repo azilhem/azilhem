@@ -75,7 +75,7 @@ I enjoy organizing data, understanding systems and building structured digital s
 
 ## Contact
 
-📧 azzouzilhem.pro@gmail.com
+📧 azzouzilhem.pro@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/ilhem-a-52479b225)
 
 ---
